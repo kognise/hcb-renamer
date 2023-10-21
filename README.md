@@ -7,3 +7,9 @@ An old prototype for AI renaming of [HCB](https://hackclub.com/hcb/) transaction
 finetuning.jsonl          safe-deduped.json         safe.json                 unsafe.json
 finetuning_prepared.jsonl safe-emojifix.json        txs.tsv
 ```
+
+What it look(ed) like in the UI:
+
+![](https://doggo.ninja/CFcck7.png)
+
+![](https://doggo.ninja/D9AWzy.png)
